@@ -1,0 +1,408 @@
+2025-04-16 13:17:32,676 - INFO - Scheduler started. Job will run every 5 seconds.
+2025-04-16 13:17:37,678 - INFO - Scheduled scraping job started.
+2025-04-16 13:17:37,700 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:17:39,276 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:17:39,997 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:17:40,735 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:17:41,603 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:17:42,296 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:17:43,052 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:17:43,750 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:17:44,464 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:17:45,160 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:17:45,893 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:17:45,894 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=2.
+2025-04-16 13:17:47,375 - INFO - Scraped job: Management Accountant at N/A
+2025-04-16 13:17:48,079 - INFO - Scraped job: Security Guard Patrol Officer at Defcorp (Pvt) Ltd
+2025-04-16 13:17:48,792 - INFO - Scraped job: Research Assistant x1, Harare/Mt Darwin at CeSHHAR Zimbabwe
+2025-04-16 13:17:49,536 - INFO - Scraped job: Projects Sales Manager at Saint-Gobain Gyproc Zimbabwe
+2025-04-16 13:18:22,212 - INFO - Scraped job: CASH TRANSFER SERVICES at Development Aid from People to People Zimbabwe(DAPP)
+2025-04-16 13:18:24,761 - INFO - Scraped job: PROJECT ADMINISTRATION ASSISTANT at BRTI - Biomedical Research and Training Institute
+2025-04-16 13:18:25,485 - INFO - Scraped job: REGISTERED GENERAL NURSE: AIDS HEALTHCARE FOUNDATION    (BEITBRIDGE) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:18:26,239 - INFO - Scraped job: Attachee Digital Marketing at N/A
+2025-04-16 13:18:26,997 - INFO - Scraped job: Principal Officer: Catering Industry Pension Fund (CIPF) at Catering Industry Pension Fund
+2025-04-16 13:18:27,947 - INFO - Scraped job: Chief Risk Analyst - Quantitative Risk and Data Analytics at Proserve Consulting
+2025-04-16 13:18:27,949 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=3.
+2025-04-16 13:18:29,384 - INFO - Scraped job: MEDICAL OFFICERS: AIDS HEALTHCARE FOUNDATION  (CHITUNGWIZA; BEITBRIDGE; TSHOLOTSHO) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:18:30,071 - INFO - Scraped job: Project Coordinator MSc (x1) [High Horizons] at CeSHHAR Zimbabwe
+2025-04-16 13:18:30,796 - INFO - Scraped job: Project Coordinator MSc (x1) [HAPI] at CeSHHAR Zimbabwe
+2025-04-16 13:18:31,466 - INFO - Scraped job: Students on attachment at Mashambanzou Care Trust
+2025-04-16 13:18:33,042 - INFO - Scraped job: Accounting Graduate Trainee at First Pack Marketing
+2025-04-16 13:18:33,721 - INFO - Scraped job: Rescuer at Spoton Towing & Recovery
+2025-04-16 13:18:34,421 - INFO - Scraped job: Sage Consultant at Olimem Enterprise Solutions ~~ 0
+2025-04-16 13:18:35,125 - INFO - Scraped job: Graduate Trainee Software Developer at wCyber Solutions (Pvt) Ltd
+2025-04-16 13:18:35,837 - INFO - Scraped job: Cashier at Ledger Paints (Pvt) Ltd
+2025-04-16 13:18:36,566 - INFO - Scraped job: Accounts Assistant/ Accounting Assistant at Ledger Paints (Pvt) Ltd
+2025-04-16 13:18:36,567 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=4.
+2025-04-16 13:18:38,046 - INFO - Scraped job: Panel Beater at Bakers Inn
+2025-04-16 13:18:39,011 - INFO - Scraped job: Senior Finance andAdministration Officer at SAFIRE -Southern Alliance For Indigenous Resources
+2025-04-16 13:18:39,754 - INFO - Scraped job: TOURISIM & HOSPITALITY TUTOR-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:18:40,476 - INFO - Scraped job: FRENCH LECTURER-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:18:41,217 - INFO - Scraped job: Loans Officer at N/A
+2025-04-16 13:18:42,117 - INFO - Scraped job: Area Sales Manager/ Business Development Manager at Five Star Industries
+2025-04-16 13:18:43,106 - INFO - Scraped job: Aluminium Fabrication and Computer Aided Design Instructior. at Ixar Mobile ~~ 0
+2025-04-16 13:18:44,000 - INFO - Scraped job: Electronic Engineer/Technician at Ixar Mobile ~~ 0
+2025-04-16 13:18:44,894 - INFO - Scraped job: ASSISTANT LOANS OFFICER at N/A
+2025-04-16 13:18:45,815 - INFO - Scraped job: Heavy Machinery Truck Sales Executive at ST-ONE Machinery
+2025-04-16 13:18:45,815 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=5.
+2025-04-16 13:18:47,665 - INFO - Scraped job: Sales and Business Development Officer at N/A
+2025-04-16 13:18:48,594 - INFO - Scraped job: Supply Chain Attachee (Mutare Branch) at Nash Paints
+2025-04-16 13:18:49,555 - INFO - Scraped job: SALES AND MARKETING  INTERN at Nash Paints
+2025-04-16 13:18:50,511 - INFO - Scraped job: Sales Representative - Gokwe at N/A
+2025-04-16 13:18:51,391 - INFO - Scraped job: General Hand at N/A
+2025-04-16 13:18:52,277 - INFO - Scraped job: Business Development Executive at N/A
+2025-04-16 13:18:53,177 - INFO - Scraped job: Sales Champion -Solar  Project at Nash Furnishers
+2025-04-16 13:18:54,031 - INFO - Scraped job: Finance Graduate Trainee: Cospharm at N/A
+2025-04-16 13:18:54,914 - INFO - Scraped job: Gardener Kwekwe at N/A
+2025-04-16 13:18:55,921 - INFO - Scraped job: Electrician Class 1 at Zimasco (Pvt) Limited
+2025-04-16 13:18:55,973 - INFO - Saved 50 jobs to scraped_data.csv
+2025-04-16 13:18:57,421 - INFO - Saved 50 jobs to scraped_data.xlsx
+2025-04-16 13:19:02,449 - INFO - Scheduled scraping job started.
+2025-04-16 13:19:02,465 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:19:04,009 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:19:04,790 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:19:05,563 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:19:06,460 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:19:07,140 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:19:07,838 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:19:08,542 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:19:09,265 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:19:09,943 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:19:10,679 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:19:10,681 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=2.
+2025-04-16 13:19:12,262 - INFO - Scraped job: Management Accountant at N/A
+2025-04-16 13:19:12,964 - INFO - Scraped job: Security Guard Patrol Officer at Defcorp (Pvt) Ltd
+2025-04-16 13:19:13,717 - INFO - Scraped job: Research Assistant x1, Harare/Mt Darwin at CeSHHAR Zimbabwe
+2025-04-16 13:19:14,443 - INFO - Scraped job: Projects Sales Manager at Saint-Gobain Gyproc Zimbabwe
+2025-04-16 13:19:15,121 - INFO - Scraped job: CASH TRANSFER SERVICES at Development Aid from People to People Zimbabwe(DAPP)
+2025-04-16 13:19:15,857 - INFO - Scraped job: PROJECT ADMINISTRATION ASSISTANT at BRTI - Biomedical Research and Training Institute
+2025-04-16 13:19:16,578 - INFO - Scraped job: REGISTERED GENERAL NURSE: AIDS HEALTHCARE FOUNDATION    (BEITBRIDGE) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:19:17,277 - INFO - Scraped job: Attachee Digital Marketing at N/A
+2025-04-16 13:19:17,997 - INFO - Scraped job: Principal Officer: Catering Industry Pension Fund (CIPF) at Catering Industry Pension Fund
+2025-04-16 13:19:18,705 - INFO - Scraped job: Chief Risk Analyst - Quantitative Risk and Data Analytics at Proserve Consulting
+2025-04-16 13:19:18,707 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=3.
+2025-04-16 13:19:20,213 - INFO - Scraped job: MEDICAL OFFICERS: AIDS HEALTHCARE FOUNDATION  (CHITUNGWIZA; BEITBRIDGE; TSHOLOTSHO) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:19:20,900 - INFO - Scraped job: Project Coordinator MSc (x1) [High Horizons] at CeSHHAR Zimbabwe
+2025-04-16 13:19:21,636 - INFO - Scraped job: Project Coordinator MSc (x1) [HAPI] at CeSHHAR Zimbabwe
+2025-04-16 13:19:22,324 - INFO - Scraped job: Students on attachment at Mashambanzou Care Trust
+2025-04-16 13:19:23,032 - INFO - Scraped job: Accounting Graduate Trainee at First Pack Marketing
+2025-04-16 13:19:23,725 - INFO - Scraped job: Rescuer at Spoton Towing & Recovery
+2025-04-16 13:19:24,426 - INFO - Scraped job: Sage Consultant at Olimem Enterprise Solutions ~~ 0
+2025-04-16 13:19:25,142 - INFO - Scraped job: Graduate Trainee Software Developer at wCyber Solutions (Pvt) Ltd
+2025-04-16 13:19:25,855 - INFO - Scraped job: Cashier at Ledger Paints (Pvt) Ltd
+2025-04-16 13:19:27,573 - INFO - Scraped job: Accounts Assistant/ Accounting Assistant at Ledger Paints (Pvt) Ltd
+2025-04-16 13:19:27,574 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=4.
+2025-04-16 13:19:29,161 - INFO - Scraped job: Panel Beater at Bakers Inn
+2025-04-16 13:19:30,068 - INFO - Scraped job: Senior Finance andAdministration Officer at SAFIRE -Southern Alliance For Indigenous Resources
+2025-04-16 13:19:30,891 - INFO - Scraped job: TOURISIM & HOSPITALITY TUTOR-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:19:31,702 - INFO - Scraped job: FRENCH LECTURER-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:19:32,516 - INFO - Scraped job: Loans Officer at N/A
+2025-04-16 13:19:33,233 - INFO - Scraped job: Area Sales Manager/ Business Development Manager at Five Star Industries
+2025-04-16 13:19:33,993 - INFO - Scraped job: Aluminium Fabrication and Computer Aided Design Instructior. at Ixar Mobile ~~ 0
+2025-04-16 13:19:34,685 - INFO - Scraped job: Electronic Engineer/Technician at Ixar Mobile ~~ 0
+2025-04-16 13:19:35,414 - INFO - Scraped job: ASSISTANT LOANS OFFICER at N/A
+2025-04-16 13:19:36,075 - INFO - Scraped job: Heavy Machinery Truck Sales Executive at ST-ONE Machinery
+2025-04-16 13:19:36,076 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=5.
+2025-04-16 13:19:36,893 - INFO - Scraper stopped by user (Ctrl + C). Exiting gracefully.
+2025-04-16 13:22:11,940 - INFO - Scheduler started. Job will run every 5 seconds.
+2025-04-16 13:22:16,944 - INFO - Scheduled scraping job started.
+2025-04-16 13:22:16,967 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:22:18,534 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:22:19,199 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:22:19,904 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:22:20,787 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:22:21,486 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:22:22,174 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:22:22,881 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:22:23,626 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:22:24,306 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:22:25,015 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:22:25,021 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=2.
+2025-04-16 13:22:26,474 - INFO - Scraped job: Management Accountant at N/A
+2025-04-16 13:22:27,175 - INFO - Scraped job: Security Guard Patrol Officer at Defcorp (Pvt) Ltd
+2025-04-16 13:22:27,826 - INFO - Scraped job: Research Assistant x1, Harare/Mt Darwin at CeSHHAR Zimbabwe
+2025-04-16 13:22:28,517 - INFO - Scraped job: Projects Sales Manager at Saint-Gobain Gyproc Zimbabwe
+2025-04-16 13:22:29,233 - INFO - Scraped job: CASH TRANSFER SERVICES at Development Aid from People to People Zimbabwe(DAPP)
+2025-04-16 13:22:29,955 - INFO - Scraped job: PROJECT ADMINISTRATION ASSISTANT at BRTI - Biomedical Research and Training Institute
+2025-04-16 13:22:30,657 - INFO - Scraped job: REGISTERED GENERAL NURSE: AIDS HEALTHCARE FOUNDATION    (BEITBRIDGE) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:22:31,396 - INFO - Scraped job: Attachee Digital Marketing at N/A
+2025-04-16 13:22:32,060 - INFO - Scraped job: Principal Officer: Catering Industry Pension Fund (CIPF) at Catering Industry Pension Fund
+2025-04-16 13:22:32,772 - INFO - Scraped job: Chief Risk Analyst - Quantitative Risk and Data Analytics at Proserve Consulting
+2025-04-16 13:22:32,775 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=3.
+2025-04-16 13:22:34,239 - INFO - Scraped job: MEDICAL OFFICERS: AIDS HEALTHCARE FOUNDATION  (CHITUNGWIZA; BEITBRIDGE; TSHOLOTSHO) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:22:34,905 - INFO - Scraped job: Project Coordinator MSc (x1) [High Horizons] at CeSHHAR Zimbabwe
+2025-04-16 13:22:35,596 - INFO - Scraped job: Project Coordinator MSc (x1) [HAPI] at CeSHHAR Zimbabwe
+2025-04-16 13:22:36,273 - INFO - Scraped job: Students on attachment at Mashambanzou Care Trust
+2025-04-16 13:22:36,946 - INFO - Scraped job: Accounting Graduate Trainee at First Pack Marketing
+2025-04-16 13:22:37,650 - INFO - Scraped job: Rescuer at Spoton Towing & Recovery
+2025-04-16 13:22:38,312 - INFO - Scraped job: Sage Consultant at Olimem Enterprise Solutions ~~ 0
+2025-04-16 13:22:38,991 - INFO - Scraped job: Graduate Trainee Software Developer at wCyber Solutions (Pvt) Ltd
+2025-04-16 13:22:39,694 - INFO - Scraped job: Cashier at Ledger Paints (Pvt) Ltd
+2025-04-16 13:22:40,413 - INFO - Scraped job: Accounts Assistant/ Accounting Assistant at Ledger Paints (Pvt) Ltd
+2025-04-16 13:22:40,419 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=4.
+2025-04-16 13:22:41,854 - INFO - Scraped job: Panel Beater at Bakers Inn
+2025-04-16 13:22:42,545 - INFO - Scraped job: Senior Finance andAdministration Officer at SAFIRE -Southern Alliance For Indigenous Resources
+2025-04-16 13:22:43,260 - INFO - Scraped job: TOURISIM & HOSPITALITY TUTOR-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:22:43,935 - INFO - Scraped job: FRENCH LECTURER-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:22:44,661 - INFO - Scraped job: Loans Officer at N/A
+2025-04-16 13:22:45,507 - INFO - Scraped job: Area Sales Manager/ Business Development Manager at Five Star Industries
+2025-04-16 13:22:46,217 - INFO - Scraped job: Aluminium Fabrication and Computer Aided Design Instructior. at Ixar Mobile ~~ 0
+2025-04-16 13:22:46,885 - INFO - Scraped job: Electronic Engineer/Technician at Ixar Mobile ~~ 0
+2025-04-16 13:22:47,575 - INFO - Scraped job: ASSISTANT LOANS OFFICER at N/A
+2025-04-16 13:22:48,262 - INFO - Scraped job: Heavy Machinery Truck Sales Executive at ST-ONE Machinery
+2025-04-16 13:22:48,265 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=5.
+2025-04-16 13:22:49,696 - INFO - Scraped job: Sales and Business Development Officer at N/A
+2025-04-16 13:22:50,367 - INFO - Scraped job: Supply Chain Attachee (Mutare Branch) at Nash Paints
+2025-04-16 13:22:51,544 - INFO - Scraped job: SALES AND MARKETING  INTERN at Nash Paints
+2025-04-16 13:22:52,221 - INFO - Scraped job: Sales Representative - Gokwe at N/A
+2025-04-16 13:22:52,924 - INFO - Scraped job: General Hand at N/A
+2025-04-16 13:22:53,628 - INFO - Scraped job: Business Development Executive at N/A
+2025-04-16 13:22:54,304 - INFO - Scraped job: Sales Champion -Solar  Project at Nash Furnishers
+2025-04-16 13:22:55,032 - INFO - Scraped job: Finance Graduate Trainee: Cospharm at N/A
+2025-04-16 13:22:55,734 - INFO - Scraped job: Gardener Kwekwe at N/A
+2025-04-16 13:22:56,456 - INFO - Scraped job: Electrician Class 1 at Zimasco (Pvt) Limited
+2025-04-16 13:22:56,465 - INFO - Saved 50 jobs to scraped_data.csv (Top 10)
+2025-04-16 13:22:56,928 - INFO - Saved 50 jobs to scraped_data.xlsx (All Jobs)
+2025-04-16 13:23:01,951 - INFO - Scheduled scraping job started.
+2025-04-16 13:23:01,967 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:23:03,428 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:23:04,135 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:23:04,817 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:23:05,722 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:23:06,466 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:23:07,184 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:23:07,888 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:23:08,562 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:23:09,272 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:23:09,963 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:23:09,965 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=2.
+2025-04-16 13:23:11,456 - INFO - Scraped job: Management Accountant at N/A
+2025-04-16 13:23:12,143 - INFO - Scraped job: Security Guard Patrol Officer at Defcorp (Pvt) Ltd
+2025-04-16 13:23:12,883 - INFO - Scraped job: Research Assistant x1, Harare/Mt Darwin at CeSHHAR Zimbabwe
+2025-04-16 13:23:13,605 - INFO - Scraped job: Projects Sales Manager at Saint-Gobain Gyproc Zimbabwe
+2025-04-16 13:23:14,322 - INFO - Scraped job: CASH TRANSFER SERVICES at Development Aid from People to People Zimbabwe(DAPP)
+2025-04-16 13:23:15,005 - INFO - Scraped job: PROJECT ADMINISTRATION ASSISTANT at BRTI - Biomedical Research and Training Institute
+2025-04-16 13:23:15,687 - INFO - Scraped job: REGISTERED GENERAL NURSE: AIDS HEALTHCARE FOUNDATION    (BEITBRIDGE) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:23:17,490 - INFO - Scraped job: Attachee Digital Marketing at N/A
+2025-04-16 13:23:18,215 - INFO - Scraped job: Principal Officer: Catering Industry Pension Fund (CIPF) at Catering Industry Pension Fund
+2025-04-16 13:23:18,922 - INFO - Scraped job: Chief Risk Analyst - Quantitative Risk and Data Analytics at Proserve Consulting
+2025-04-16 13:23:18,924 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=3.
+2025-04-16 13:23:20,421 - INFO - Scraped job: MEDICAL OFFICERS: AIDS HEALTHCARE FOUNDATION  (CHITUNGWIZA; BEITBRIDGE; TSHOLOTSHO) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:23:21,170 - INFO - Scraped job: Project Coordinator MSc (x1) [High Horizons] at CeSHHAR Zimbabwe
+2025-04-16 13:23:21,908 - INFO - Scraped job: Project Coordinator MSc (x1) [HAPI] at CeSHHAR Zimbabwe
+2025-04-16 13:23:22,619 - INFO - Scraped job: Students on attachment at Mashambanzou Care Trust
+2025-04-16 13:23:23,361 - INFO - Scraped job: Accounting Graduate Trainee at First Pack Marketing
+2025-04-16 13:23:24,124 - INFO - Scraped job: Rescuer at Spoton Towing & Recovery
+2025-04-16 13:23:24,859 - INFO - Scraped job: Sage Consultant at Olimem Enterprise Solutions ~~ 0
+2025-04-16 13:23:25,570 - INFO - Scraped job: Graduate Trainee Software Developer at wCyber Solutions (Pvt) Ltd
+2025-04-16 13:23:26,299 - INFO - Scraped job: Cashier at Ledger Paints (Pvt) Ltd
+2025-04-16 13:23:27,316 - INFO - Scraped job: Accounts Assistant/ Accounting Assistant at Ledger Paints (Pvt) Ltd
+2025-04-16 13:23:27,318 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=4.
+2025-04-16 13:23:29,432 - INFO - Scraped job: Panel Beater at Bakers Inn
+2025-04-16 13:23:30,529 - INFO - Scraped job: Senior Finance andAdministration Officer at SAFIRE -Southern Alliance For Indigenous Resources
+2025-04-16 13:23:31,575 - INFO - Scraped job: TOURISIM & HOSPITALITY TUTOR-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:23:32,590 - INFO - Scraped job: FRENCH LECTURER-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:23:33,627 - INFO - Scraped job: Loans Officer at N/A
+2025-04-16 13:23:34,654 - INFO - Scraped job: Area Sales Manager/ Business Development Manager at Five Star Industries
+2025-04-16 13:23:35,720 - INFO - Scraped job: Aluminium Fabrication and Computer Aided Design Instructior. at Ixar Mobile ~~ 0
+2025-04-16 13:23:36,736 - INFO - Scraped job: Electronic Engineer/Technician at Ixar Mobile ~~ 0
+2025-04-16 13:23:37,769 - INFO - Scraped job: ASSISTANT LOANS OFFICER at N/A
+2025-04-16 13:23:38,805 - INFO - Scraped job: Heavy Machinery Truck Sales Executive at ST-ONE Machinery
+2025-04-16 13:23:38,807 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=5.
+2025-04-16 13:23:40,819 - INFO - Scraped job: Sales and Business Development Officer at N/A
+2025-04-16 13:23:42,484 - INFO - Scraped job: Supply Chain Attachee (Mutare Branch) at Nash Paints
+2025-04-16 13:23:43,201 - INFO - Scraped job: SALES AND MARKETING  INTERN at Nash Paints
+2025-04-16 13:23:43,917 - INFO - Scraped job: Sales Representative - Gokwe at N/A
+2025-04-16 13:23:44,581 - INFO - Scraped job: General Hand at N/A
+2025-04-16 13:23:45,276 - INFO - Scraped job: Business Development Executive at N/A
+2025-04-16 13:23:45,984 - INFO - Scraped job: Sales Champion -Solar  Project at Nash Furnishers
+2025-04-16 13:23:46,718 - INFO - Scraped job: Finance Graduate Trainee: Cospharm at N/A
+2025-04-16 13:23:47,442 - INFO - Scraped job: Gardener Kwekwe at N/A
+2025-04-16 13:23:48,129 - INFO - Scraped job: Electrician Class 1 at Zimasco (Pvt) Limited
+2025-04-16 13:23:48,134 - INFO - Saved 50 jobs to scraped_data.csv (Top 10)
+2025-04-16 13:23:48,183 - INFO - Saved 50 jobs to scraped_data.xlsx (All Jobs)
+2025-04-16 13:23:52,110 - INFO - Scraper stopped by user (Ctrl + C). Exiting gracefully.
+2025-04-16 13:27:12,149 - INFO - Scheduler started. Job will run every 5 seconds.
+2025-04-16 13:27:17,486 - INFO - Scheduled scraping job started.
+2025-04-16 13:27:17,510 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:27:18,992 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:27:19,665 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:27:20,391 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:27:21,298 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:27:22,000 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:27:22,700 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:27:23,375 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:27:24,053 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:27:24,746 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:27:25,413 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:27:25,424 - INFO - Saved 10 jobs to scraped_data.csv (Top 10)
+2025-04-16 13:27:25,886 - INFO - Saved 10 jobs to scraped_data.xlsx (All Jobs)
+2025-04-16 13:27:30,905 - INFO - Scheduled scraping job started.
+2025-04-16 13:27:30,921 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:27:31,657 - INFO - Scraper stopped by user (Ctrl + C). Exiting gracefully.
+2025-04-16 13:28:19,442 - INFO - Scheduler started. Job will run every 5 seconds.
+2025-04-16 13:28:24,446 - INFO - Scheduled scraping job started.
+2025-04-16 13:28:24,470 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:28:25,928 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:28:26,616 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:28:27,327 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:28:28,259 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:28:28,940 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:28:29,675 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:28:30,400 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:28:31,080 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:28:31,779 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:28:33,481 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:28:33,492 - INFO - Saved 10 jobs to scraped_data.csv (Top 10)
+2025-04-16 13:28:33,932 - INFO - Saved 10 jobs to scraped_data.xlsx (All Jobs)
+2025-04-16 13:28:38,947 - INFO - Scheduled scraping job started.
+2025-04-16 13:28:38,965 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:28:41,794 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:28:42,492 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:28:43,293 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:28:44,214 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:28:44,878 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:28:45,570 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:28:46,245 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:28:46,933 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:28:47,726 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:28:48,374 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:28:48,379 - INFO - Saved 10 jobs to scraped_data.csv (Top 10)
+2025-04-16 13:28:48,412 - INFO - Saved 10 jobs to scraped_data.xlsx (All Jobs)
+2025-04-16 13:28:53,426 - INFO - Scheduled scraping job started.
+2025-04-16 13:28:53,442 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:28:54,900 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:28:55,587 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:28:56,275 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:28:57,171 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:28:57,917 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:28:58,629 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:28:59,060 - INFO - Scraper stopped by user (Ctrl + C). Exiting gracefully.
+2025-04-16 13:32:49,092 - INFO - Scheduler started. Job will run every 5 seconds.
+2025-04-16 13:32:54,095 - INFO - Scheduled scraping job started.
+2025-04-16 13:32:54,118 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:33:16,560 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:33:17,256 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:33:17,930 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:33:18,913 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:33:19,601 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:33:20,508 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:33:21,231 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:33:21,896 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:33:22,544 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:33:23,246 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:33:23,247 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=2.
+2025-04-16 13:33:24,689 - INFO - Scraped job: Security Guard Patrol Officer at Defcorp (Pvt) Ltd
+2025-04-16 13:33:25,366 - INFO - Scraped job: Research Assistant x1, Harare/Mt Darwin at CeSHHAR Zimbabwe
+2025-04-16 13:33:26,053 - INFO - Scraped job: Projects Sales Manager at Saint-Gobain Gyproc Zimbabwe
+2025-04-16 13:33:26,785 - INFO - Scraped job: Chief Risk Analyst - Quantitative Risk and Data Analytics at Proserve Consulting
+2025-04-16 13:33:27,471 - INFO - Scraped job: Management Accountant at N/A
+2025-04-16 13:33:28,152 - INFO - Scraped job: CASH TRANSFER SERVICES at Development Aid from People to People Zimbabwe(DAPP)
+2025-04-16 13:33:28,871 - INFO - Scraped job: Principal Officer: Catering Industry Pension Fund (CIPF) at Catering Industry Pension Fund
+2025-04-16 13:33:29,584 - INFO - Scraped job: REGISTERED GENERAL NURSE: AIDS HEALTHCARE FOUNDATION    (BEITBRIDGE) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:33:30,227 - INFO - Scraped job: Attachee Digital Marketing at N/A
+2025-04-16 13:33:30,928 - INFO - Scraped job: PROJECT ADMINISTRATION ASSISTANT at BRTI - Biomedical Research and Training Institute
+2025-04-16 13:33:30,929 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=3.
+2025-04-16 13:33:32,418 - INFO - Scraped job: Sage Consultant at Olimem Enterprise Solutions ~~ 0
+2025-04-16 13:33:33,089 - INFO - Scraped job: Rescuer at Spoton Towing & Recovery
+2025-04-16 13:33:33,799 - INFO - Scraped job: Cashier at Ledger Paints (Pvt) Ltd
+2025-04-16 13:33:35,531 - INFO - Scraped job: Project Coordinator MSc (x1) [High Horizons] at CeSHHAR Zimbabwe
+2025-04-16 13:33:36,220 - INFO - Scraped job: Project Coordinator MSc (x1) [HAPI] at CeSHHAR Zimbabwe
+2025-04-16 13:33:36,887 - INFO - Scraped job: Accounting Graduate Trainee at First Pack Marketing
+2025-04-16 13:33:37,572 - INFO - Scraped job: Graduate Trainee Software Developer at wCyber Solutions (Pvt) Ltd
+2025-04-16 13:33:38,248 - INFO - Scraped job: Students on attachment at Mashambanzou Care Trust
+2025-04-16 13:33:38,935 - INFO - Scraped job: Accounts Assistant/ Accounting Assistant at Ledger Paints (Pvt) Ltd
+2025-04-16 13:33:39,653 - INFO - Scraped job: MEDICAL OFFICERS: AIDS HEALTHCARE FOUNDATION  (CHITUNGWIZA; BEITBRIDGE; TSHOLOTSHO) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:33:39,654 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=4.
+2025-04-16 13:33:41,052 - INFO - Scraped job: Area Sales Manager/ Business Development Manager at Five Star Industries
+2025-04-16 13:33:41,820 - INFO - Scraped job: Panel Beater at Bakers Inn
+2025-04-16 13:33:42,503 - INFO - Scraped job: Senior Finance andAdministration Officer at SAFIRE -Southern Alliance For Indigenous Resources
+2025-04-16 13:33:43,162 - INFO - Scraped job: FRENCH LECTURER-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:33:43,860 - INFO - Scraped job: Electronic Engineer/Technician at Ixar Mobile ~~ 0
+2025-04-16 13:33:44,587 - INFO - Scraped job: Heavy Machinery Truck Sales Executive at ST-ONE Machinery
+2025-04-16 13:33:45,257 - INFO - Scraped job: Loans Officer at N/A
+2025-04-16 13:33:46,014 - INFO - Scraped job: TOURISIM & HOSPITALITY TUTOR-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:33:46,737 - INFO - Scraped job: ASSISTANT LOANS OFFICER at N/A
+2025-04-16 13:33:47,436 - INFO - Scraped job: Aluminium Fabrication and Computer Aided Design Instructior. at Ixar Mobile ~~ 0
+2025-04-16 13:33:47,437 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=5.
+2025-04-16 13:33:48,888 - INFO - Scraped job: Sales and Business Development Officer at N/A
+2025-04-16 13:33:49,622 - INFO - Scraped job: Business Development Executive at N/A
+2025-04-16 13:33:50,314 - INFO - Scraped job: General Hand at N/A
+2025-04-16 13:33:50,993 - INFO - Scraped job: SALES AND MARKETING  INTERN at Nash Paints
+2025-04-16 13:33:51,678 - INFO - Scraped job: Sales Champion -Solar  Project at Nash Furnishers
+2025-04-16 13:33:52,440 - INFO - Scraped job: Sales Representative - Gokwe at N/A
+2025-04-16 13:33:53,178 - INFO - Scraped job: Supply Chain Attachee (Mutare Branch) at Nash Paints
+2025-04-16 13:33:53,924 - INFO - Scraped job: Finance Graduate Trainee: Cospharm at N/A
+2025-04-16 13:33:54,637 - INFO - Scraped job: Electrician Class 1 at Zimasco (Pvt) Limited
+2025-04-16 13:33:55,326 - INFO - Scraped job: Gardener Kwekwe at N/A
+2025-04-16 13:33:55,351 - INFO - Saved 10 random jobs to scraped_data.csv
+2025-04-16 13:33:55,814 - INFO - Saved 50 jobs to scraped_data.xlsx
+2025-04-16 13:34:00,839 - INFO - Scheduled scraping job started.
+2025-04-16 13:34:00,860 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:34:02,423 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:34:03,167 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:34:03,846 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:34:04,606 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:34:05,531 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:34:06,218 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:34:06,916 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:34:07,611 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:34:08,374 - INFO - Scraped job: SALES REPS at N/A
+2025-04-16 13:34:09,077 - INFO - Scraped job: Electrical Design Engineer at Power Systems Africa
+2025-04-16 13:34:09,078 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=2.
+2025-04-16 13:34:10,568 - INFO - Scraped job: Research Assistant x1, Harare/Mt Darwin at CeSHHAR Zimbabwe
+2025-04-16 13:34:11,246 - INFO - Scraped job: Projects Sales Manager at Saint-Gobain Gyproc Zimbabwe
+2025-04-16 13:34:11,915 - INFO - Scraped job: Management Accountant at N/A
+2025-04-16 13:34:12,608 - INFO - Scraped job: CASH TRANSFER SERVICES at Development Aid from People to People Zimbabwe(DAPP)
+2025-04-16 13:34:13,295 - INFO - Scraped job: Principal Officer: Catering Industry Pension Fund (CIPF) at Catering Industry Pension Fund
+2025-04-16 13:34:13,963 - INFO - Scraped job: REGISTERED GENERAL NURSE: AIDS HEALTHCARE FOUNDATION    (BEITBRIDGE) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:34:14,625 - INFO - Scraped job: Chief Risk Analyst - Quantitative Risk and Data Analytics at Proserve Consulting
+2025-04-16 13:34:15,346 - INFO - Scraped job: PROJECT ADMINISTRATION ASSISTANT at BRTI - Biomedical Research and Training Institute
+2025-04-16 13:34:16,060 - INFO - Scraped job: Security Guard Patrol Officer at Defcorp (Pvt) Ltd
+2025-04-16 13:34:16,742 - INFO - Scraped job: Attachee Digital Marketing at N/A
+2025-04-16 13:34:16,743 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=3.
+2025-04-16 13:34:18,232 - INFO - Scraped job: Cashier at Ledger Paints (Pvt) Ltd
+2025-04-16 13:34:18,879 - INFO - Scraped job: Accounts Assistant/ Accounting Assistant at Ledger Paints (Pvt) Ltd
+2025-04-16 13:34:19,557 - INFO - Scraped job: Sage Consultant at Olimem Enterprise Solutions ~~ 0
+2025-04-16 13:34:20,249 - INFO - Scraped job: Students on attachment at Mashambanzou Care Trust
+2025-04-16 13:34:20,936 - INFO - Scraped job: Accounting Graduate Trainee at First Pack Marketing
+2025-04-16 13:34:21,630 - INFO - Scraped job: Project Coordinator MSc (x1) [HAPI] at CeSHHAR Zimbabwe
+2025-04-16 13:34:22,317 - INFO - Scraped job: Rescuer at Spoton Towing & Recovery
+2025-04-16 13:34:22,962 - INFO - Scraped job: MEDICAL OFFICERS: AIDS HEALTHCARE FOUNDATION  (CHITUNGWIZA; BEITBRIDGE; TSHOLOTSHO) at AIDS HEALTHCARE FOUNDATION
+2025-04-16 13:34:23,644 - INFO - Scraped job: Project Coordinator MSc (x1) [High Horizons] at CeSHHAR Zimbabwe
+2025-04-16 13:34:24,318 - INFO - Scraped job: Graduate Trainee Software Developer at wCyber Solutions (Pvt) Ltd
+2025-04-16 13:34:24,319 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=4.
+2025-04-16 13:34:25,760 - INFO - Scraped job: Panel Beater at Bakers Inn
+2025-04-16 13:34:26,455 - INFO - Scraped job: Heavy Machinery Truck Sales Executive at ST-ONE Machinery
+2025-04-16 13:34:27,154 - INFO - Scraped job: TOURISIM & HOSPITALITY TUTOR-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:34:27,854 - INFO - Scraped job: Aluminium Fabrication and Computer Aided Design Instructior. at Ixar Mobile ~~ 0
+2025-04-16 13:34:28,526 - INFO - Scraped job: ASSISTANT LOANS OFFICER at N/A
+2025-04-16 13:34:29,231 - INFO - Scraped job: Loans Officer at N/A
+2025-04-16 13:34:29,892 - INFO - Scraped job: FRENCH LECTURER-BULAWAYO CAMPUS at Claremont Business School
+2025-04-16 13:34:30,590 - INFO - Scraped job: Area Sales Manager/ Business Development Manager at Five Star Industries
+2025-04-16 13:34:31,287 - INFO - Scraped job: Senior Finance andAdministration Officer at SAFIRE -Southern Alliance For Indigenous Resources
+2025-04-16 13:34:32,009 - INFO - Scraped job: Electronic Engineer/Technician at Ixar Mobile ~~ 0
+2025-04-16 13:34:32,010 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=5.
+2025-04-16 13:34:33,451 - INFO - Scraped job: Supply Chain Attachee (Mutare Branch) at Nash Paints
+2025-04-16 13:34:34,168 - INFO - Scraped job: Business Development Executive at N/A
+2025-04-16 13:34:34,859 - INFO - Scraped job: Sales and Business Development Officer at N/A
+2025-04-16 13:34:35,580 - INFO - Scraped job: Electrician Class 1 at Zimasco (Pvt) Limited
+2025-04-16 13:34:36,246 - INFO - Scraped job: Finance Graduate Trainee: Cospharm at N/A
+2025-04-16 13:34:36,923 - INFO - Scraped job: Sales Representative - Gokwe at N/A
+2025-04-16 13:34:37,643 - INFO - Scraped job: Gardener Kwekwe at N/A
+2025-04-16 13:34:38,327 - INFO - Scraped job: Sales Champion -Solar  Project at Nash Furnishers
+2025-04-16 13:34:38,984 - INFO - Scraped job: General Hand at N/A
+2025-04-16 13:34:39,685 - INFO - Scraped job: SALES AND MARKETING  INTERN at Nash Paints
+2025-04-16 13:34:39,689 - INFO - Saved 10 random jobs to scraped_data.csv
+2025-04-16 13:34:39,728 - INFO - Saved 50 jobs to scraped_data.xlsx
+2025-04-16 13:34:44,747 - INFO - Scheduled scraping job started.
+2025-04-16 13:34:44,763 - INFO - Starting job scraping task on https://vacancymail.co.zw/jobs/?page=1.
+2025-04-16 13:34:46,475 - INFO - Scraped job: Baseline Assessment for the project, 的ntegrated Emergency Response for El Ni Drought Affected Communities in Zimbabwe, at Oxfam
+2025-04-16 13:34:47,190 - INFO - Scraped job: Mechanic at Lightguard Security
+2025-04-16 13:34:47,905 - INFO - Scraped job: Receptionist/ PA to the Managing Director at Power Systems Africa
+2025-04-16 13:34:48,593 - INFO - Scraped job: Administration Assistant Intern at Traffic Safety Council of Zimbabwe
+2025-04-16 13:34:49,253 - INFO - Scraped job: Developers Wanted for Global Opportunities at N/A
+2025-04-16 13:34:49,927 - INFO - Scraped job: Call for Supplier`s Registration for the period (January 2026 to December 2028) at MeDRA - Methodist Development and Relief Agency
+2025-04-16 13:34:50,670 - INFO - Scraped job: Automachanic at Lightguard Security
+2025-04-16 13:34:51,330 - INFO - Scraped job: IT and Support Graduate trainee at Lightguard Security
+2025-04-16 13:34:51,721 - INFO - Scraper stopped by user (Ctrl + C). Exiting gracefully.
